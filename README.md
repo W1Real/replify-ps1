@@ -1,2 +1,4 @@
-# replify-ps1
-Replify Powershell
+# replify powershell
+
+## To-Do:
+- [] Instructions to create alias / add on path
