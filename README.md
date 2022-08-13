@@ -3,3 +3,4 @@ Replify - Create a REPL for any command, inspired by the `.sh` gist for: [daniel
 
 ## To-Do:
 - [ ] Instructions to create alias / add on path
+- [ ] Make a high-performant version (i.e. C, Rust, etc)
